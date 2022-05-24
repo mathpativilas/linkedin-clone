@@ -1,12 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-
-function Home() {
+function Header() {
   return (
     <div>
-      <h2>home</h2>
+      <h2>header</h2>
     </div>
   );
 }
 
-export default Home;
+export default Header;
