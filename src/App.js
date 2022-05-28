@@ -18,7 +18,7 @@ function App() {
                 <Header /> <Home />
               </>
             }
-          ></Route>
+          />
         </Routes>
       </BrowserRouter>
     </div>
